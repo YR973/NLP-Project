@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71c6e00e-effe-4546-beae-6cad3e1e3dbb" name="Changes" comment="Initial" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "YR973"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/YR973/NLP-Project.git",
+    "accountId": "c7249238-f345-40e0-a193-8b54e28768bb"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000001664853" />
+      <entry key="S2" value="1.0101386266935337" />
+      <entry key="S5" value="1.3660622378245717" />
+      <entry key="S10" value="2.2100278097181345" />
+      <entry key="S30" value="3.685153318446517" />
+      <entry key="S60" value="4.277284950569269" />
+      <entry key="M2" value="4.620653909083688" />
+      <entry key="M5" value="4.843711472830629" />
+      <entry key="M10" value="4.9210771037239756" />
+      <entry key="M15" value="4.9472101711807746" />
+      <entry key="M30" value="4.973517416291239" />
+      <entry key="H1" value="4.986736717960117" />
+      <entry key="H2" value="4.9933628522996" />
+      <entry key="H4" value="4.996680048336266" />
+      <entry key="D1" value="4.9994464832625924" />
+      <entry key="W1" value="4.999920921490284" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9659363289248455" />
+      <entry key="MS500" value="0.9930924956018731" />
+      <entry key="S2" value="1.0083805767228753" />
+      <entry key="S5" value="1.364979228853781" />
+      <entry key="S10" value="2.209033920246454" />
+      <entry key="S30" value="3.6845576399293627" />
+      <entry key="S60" value="4.27693396838853" />
+      <entry key="M2" value="4.620463001943972" />
+      <entry key="M5" value="4.843631103108227" />
+      <entry key="M10" value="4.921036223896144" />
+      <entry key="M15" value="4.947182761454984" />
+      <entry key="M30" value="4.973503632651398" />
+      <entry key="H1" value="4.986729806347291" />
+      <entry key="H2" value="4.993359391532578" />
+      <entry key="H4" value="4.996678316711052" />
+      <entry key="D1" value="4.9994461944858" />
+      <entry key="W1" value="4.99992088023223" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3M8LM6HfFsnvm1KHIffwHbhheBm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71c6e00e-effe-4546-beae-6cad3e1e3dbb" name="Changes" comment="" />
+      <created>1794727197044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794727197044</updated>
+      <workItem from="1794727198076" duration="352000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <option name="closed" value="true" />
+      <created>1794727423642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794727423643</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+  </component>
+</project>
